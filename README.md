@@ -1,5 +1,5 @@
 # SoC - Image Super Resolution using Deep Neural Networks
-
+![Nice Image](image.png)
 **Week 1:** Learning basics of python, familiarise yourself with numpy and other python libraries \
 **Week 2:** Implementing PCA, logistic and linear regression using numpy \
 **Week 3:** Understanding PyTorch and using it to implement a simple feed forward neural network(option assignment: make the neural network using numpy only) \
