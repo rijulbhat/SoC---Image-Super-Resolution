@@ -1,9 +1,4 @@
-# Week 1
+# Week 2
 
 
-- Complete the course on Linear Regression and Logistic Regression available on coursera. You can follow this link: [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?action=enroll#modules)
-- Build a Linear regression model to predict life expectancy using the dataset provided in the link below. You will have to load the data using the library of your choice and drop rows in which some cells are empty.You are expected to use Numpy to create the linear regression model. [Life Expectancy Dataset](https://docs.google.com/spreadsheets/d/1PZyB7ce2W79PC-AgTuXwd8xW0zWwtk6Jqd8Qia2nxPE/edit?usp=sharing)
-- Build a logistic regression model to predict whether the patient has a 10-year risk of future coronary heart disease (CHD) using the dataset available here: https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression?resource=download
-- You are free to use any library of your choice to load the data and drop the rows which have a NA entry. You are expected to use numpy to build the logistic regression model.
-- Evaluating your model: for linear regression you can print the RMSE loss and for logistic regression print the accuracy of your model (percentage of data points classified correctly) along with the percentage false negatives (numbers of false negatives /number of positives) and percentage false positives(number of false positives/number of negatives)
-- Submission format: Make your github repository, we will also float the official GitHub repo for our SoC in a few days. You can clone or fork our repo and add your work to it. We will float Google forms asking the repo links, please feel free to reach out in case you are new to GitHub.
+- Refer the given .ipynb file for the assignment questions.
