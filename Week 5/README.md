@@ -1,6 +1,6 @@
 ## Week 5
 
-Description: Learn about convolutional neural networks (interesting!)
+Description: Getting started with Image Processing and Super Resolution
 
 - Learn about Kernels
 - Study the problem of Super Resolution
@@ -12,6 +12,12 @@ Description: Learn about convolutional neural networks (interesting!)
 - [Image Kernels](https://setosa.io/ev/image-kernels/)
 - [3D CNNs](https://towardsdatascience.com/step-by-step-implementation-3d-convolutional-neural-network-in-keras-12efbdd7b130)
 - [Paper on Image Super Resolution](http://arxiv.org/pdf/1501.00092v3)
+
+**Note**:
+- There is no implementation task this week. 
+- You can also clear backlogs from the previous weeks if you have any.
+- We will be proceeding towards the project in the upcoming weeks.
+- You would be required to implement a bit more advanced paper(of your choice) on Super Resolution.
   
 _Some Standard Announcements_ (may or may not be generated using Copilot):
 - If you have any questions, feel free to ask.
